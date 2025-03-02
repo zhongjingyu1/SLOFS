@@ -2,9 +2,7 @@
 ### This is the relevant code for Multilabel Feature Selection via Shared Latent Sublabel Structure and Simultaneous Orthogonal Basis Clustering (SLOFS)
 
 #### The article "Multilabel Feature Selection via Shared Latent Sublabel Structure and Simultaneous Orthogonal Basis Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
-```
-doi:10.1109/TNNLS.2024.3382911
-```
+
 ## Citing
 If you find this code useful, please consider to cite our work.
 ```
