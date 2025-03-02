@@ -12,7 +12,10 @@ If you find this code useful, please consider to cite our work.
   title={Multilabel Feature Selection via Shared Latent Sublabel Structure and Simultaneous Orthogonal Basis Clustering},
   author={Shang, Ronghua and Zhong, Jingyu and Zhang, Weitong and Xu, Songhua and Li, Yangyang},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2024},
+  year={2025},
+  volume={36},
+  number={3},
+  pages={5288-5303},
   publisher={IEEE}
 }
 ```
