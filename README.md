@@ -3,7 +3,7 @@
 The article "Multilabel Feature Selection via Shared Latent Sublabel Structure and Simultaneous Orthogonal Basis Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
 ## Flow chart
-<img src='./GOD-cPSO/flowplot.png' width=800>
+<img src='./flowplot.png' width=600>
 
 ## Citing
 If you find this code useful, please consider to cite our work.
